@@ -20,11 +20,20 @@ To manipulate the oxygen levels, move your mouse around the tank:
 
 ## Outcome:
 
-**Video Link:**
+## **Video Link:**
 
-**Screenshots:**
+This is the **[link](https://youtu.be/9-OB2Y-g22c)** for my video.
 
-![GREEN](/MEDIA/GREEN.png)
+## **Screenshots:**
+
+### **High Oxygen, Fast Organisms**
+![GREEN](MEDIA/GREEN.png "High Oxygen, Fast Organisms") 
+
+### **Moderate Oxygen, Slow Organisms**
+![YELLOW](MEDIA/YELLOW.png "Moderate Oxygen, Slow Organisms")
+
+### **Low Oxygen, Restricted Organisms**
+![RED](MEDIA/RED.png "Low Oxygen, Restricted Organisms")
 
 
 ## Problems & Difficulties:
