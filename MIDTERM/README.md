@@ -16,3 +16,11 @@ For this advanced Ecosystem Project, I decided to improve on my preexisting Oxyg
 
 
 **These are initial changes I intend to implement so they are open to change. If I am unable to implement one of the points, I can possibly turn it into a different thing.**
+
+#### What I Actually Implemented: 
+
+- When the health levels are severely damaged the organisms have difficulties moving even when the tank is Green. 
+- Organisms die when they're outside of the tank during the red. (I attempted to weaken them, but I can't understand my own code tbh).
+- Organisms no longer move in the when the Tank is red. 
+- Legend is implemented.
+- Framecount is implemented as a survival timer of some sort. 
