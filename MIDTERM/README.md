@@ -31,10 +31,10 @@ For this advanced Ecosystem Project, I decided to improve on my preexisting Oxyg
 ### **High Oxygen, Fast Organisms**
 ![GREEN](MEDIA/GREEN.png "High Oxygen, Fast Organisms") 
 
-### **Moderate Oxygen, Slow Organisms**
+### **Moderate Oxygen, Slow Organisms, After Timer Ends, Some Are Weakened**
 ![YELLOW](MEDIA/YELLOW.png "Moderate Oxygen, Slow Organisms")
 
-### **Low Oxygen, Restricted Organisms**
+### **Low Oxygen, Restricted Organisms, Some Are Dead**
 ![RED](MEDIA/RED.png "Low Oxygen, Restricted Organisms")
 
 
