@@ -1,4 +1,4 @@
-#### General Thoughts:
+## General Thoughts:
 
 Building on top of my own code was not the easiest, I was scared to change things because I worked on them really hard before. I did not want to lose my progress even though I had the original version saved. I was still scared to manipulate it. 
 
@@ -6,7 +6,7 @@ I refrained from using any outside sources besides the processing.org key page. 
 
 I thoroughly enjoy commenting my code, it is probably one of my favourite things to do in coding. 
 
-#### Main Difficulties and Solutions:
+## Main Difficulties and Solutions:
 
 - **D:** Timer is not refreshing when it ends. 
 - **S:** Create timePassed() function in Tank class, and not put the restart of the timer inside the for loop that iterates the timer. Also, create timer increment as a global variable initialised before setup().
