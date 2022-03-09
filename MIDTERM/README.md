@@ -20,6 +20,7 @@ For this advanced Ecosystem Project, I decided to improve on my preexisting Oxyg
 #### What I Actually Implemented: 
 
 - When the health levels are severely damaged the organisms have difficulties moving even when the tank is Green. 
+- Health levels of weakened organisms can be revived if they make it back into the tank before the red. (ONLY FOR ORGANISMS THAT WENT BLUE DURING YELLOW)
 - Organisms die when they're outside of the tank during the red. (I attempted to weaken them, but I can't understand my own code tbh).
 - Organisms no longer move in the when the Tank is red. 
 - Legend is implemented.
