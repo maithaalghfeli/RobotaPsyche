@@ -25,3 +25,17 @@ For this advanced Ecosystem Project, I decided to improve on my preexisting Oxyg
 - Organisms no longer move in the when the Tank is red. 
 - Legend is implemented.
 - Framecount is implemented as a survival timer of some sort. 
+
+## **Screenshots:**
+
+### **High Oxygen, Fast Organisms**
+![GREEN](MEDIA/GREEN.png "High Oxygen, Fast Organisms") 
+
+### **Moderate Oxygen, Slow Organisms**
+![YELLOW](MEDIA/YELLOW.png "Moderate Oxygen, Slow Organisms")
+
+### **Low Oxygen, Restricted Organisms**
+![RED](MEDIA/RED.png "Low Oxygen, Restricted Organisms")
+
+
+# THANK YOU! <3
