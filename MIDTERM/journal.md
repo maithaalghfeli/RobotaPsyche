@@ -9,26 +9,32 @@ I thoroughly enjoy commenting my code, it is probably one of my favourite things
 ## Main Difficulties and Solutions:
 
 **D:** Timer is not refreshing when it ends. 
+
 **S:** Create timePassed() function in Tank class, and not put the restart of the timer inside the for loop that iterates the timer. Also, create timer increment as a global variable initialised before setup().
 
 
 **D:** After I was able to set up the timer correctly, I struggled with how fast things went back to normal, we didn't see change because the counter initialised instantly.
+
 **S:** Created a time gap between reinitialising the timer and it ending to show the colour and strength change in the organisms more effectively. 
 
 
 **D:** Legend text is not showing correctly when I use a for loop to create the colour boxes. 
+
 **S:** No for loop, use text to determine box location. Turned out easier than I expected, even though it took me around 2 hours to figure out. 
 
 
 **D:** Organisms won't die. I tried implementing the ArrayList but it wasn't doing it for me. pop() splice() remove() all did not work whatsoever, they would remove random organisms but never the ones I was targetting outside the tank.  
+
 **S:** If the organism doesn't make it back into the tank in time, their movement is halted and they turn to black. I used an illusion to cover up the fact that I did not know how to remove the specific organisms from the array. 
 
 
 **D:** Even after I made velocity = 0, and stopped organism-tank attraction; organisms still moved during the red.
+
 **S:** Thanks to Sarah, I realised that the force attraction between the organisms themselves was still acting up which in turn caused my organisms to move. Once I turned that off with an if statement, it worked fantastically. 
 
 
 **D:** Checking if the object is inside the tank during critical periods.
+
 **S:** Figured out how the distance function works, I kept misusing it for 3 days before I realised what I was doing. 
 
 
